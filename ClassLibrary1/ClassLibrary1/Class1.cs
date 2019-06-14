@@ -9,5 +9,6 @@ namespace ClassLibrary1
     public class Class1
     {
         string x = "0";
+        string y = "0";
     }
 }
